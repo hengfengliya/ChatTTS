@@ -151,6 +151,11 @@ python examples/web/webui.py
 python examples/cmd/run.py "Your text 1." "Your text 2."
 ```
 
+### 本地部署与声音克隆指南
+
+- 本地部署：[`docs/cn/LOCAL_DEPLOY.md`](LOCAL_DEPLOY.md)
+- 声音克隆使用说明：[`docs/cn/VOICE_CLONE_USAGE.md`](VOICE_CLONE_USAGE.md)
+
 ## 开发教程
 
 ### 安装 Python 包
